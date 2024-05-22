@@ -1,15 +1,12 @@
 
  
  .questionarre button{
-  background-color: rgb(202, 129, 129);
+  background-color: rgb(219, 205, 55);
   padding: 5px;
   justify-content: center;
   align-items: center;
 }
 
-.questionarre{
-  background-color: rgb(110, 101, 14);
-}
 
 
 .questionarre {
@@ -29,12 +26,14 @@
   padding: 20px;
   margin: 20px 0;
   border-radius: 10px;
-  background-color: rgb(106, 165, 29);
+  background-color: rgba(50, 207, 160, 0.915);
   height: 70vh;
 }
 
 
-
+#resetButton{
+  margin-left: 45%;
+}
 
 .question {
     display: none;
